@@ -67,7 +67,7 @@ function Predator(x, y, dna){
     this.dna[3] = dna[3];
     if (random(1) < PredatorMR) {
         this.dna[3] += random(-attackDistanceMutationSize, attackDistanceMutationSize);
-        this.dna[3] = constrain(this.dna[3], 3, 20;
+        this.dna[3] = constrain(this.dna[3], 3, 20);
     }
     this.dna[4] = dna[4];
     if(random(1) < PredatorMR){
