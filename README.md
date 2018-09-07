@@ -182,6 +182,6 @@ https://evolutionnews.org/2016/09/dawkinss_weasel/ : Gave detailed information o
 p5js.org/reference : This was a useful reference for coding which included detailed examples of functions
 https://www.youtube.com/user/shiffman : The Coding Train YouTube channel run by Daniel Shiffman has always been my primary resource for learning programming as the videos are informative and entertaining.
 
-James Reid : A friend and former Trinity student who spent time critiquing my program, explained Dawkins's theory and his computer program to me and explained why my method of evolution was unlikely to produce optimal species.
+James Reid : A friend and former Trinity student who spent time critiquing my program, explained Dawkins's theory and his computer program to me and explained why my method of evolution was unlikely to produce optimal species. I am also extremely grateful for his help setting up the project on github so it can be viewed by the rest of the world.
 
 Scott Borland 
