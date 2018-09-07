@@ -39,7 +39,7 @@ function Predator(x, y, dna){
         //speed
         this.dna[0] = random(3, 9);
         //size
-        this.dna[1] = 3;
+        this.dna[1] = random(3, 9);
         //prey attraction
         this.dna[2] = random(-1, 3);
         //'attack distance'
